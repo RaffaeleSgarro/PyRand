@@ -1,0 +1,19 @@
+tasks:
+  - prova
+  - prova2
+  - prova3
+  - prova4
+  - prova5
+  - prova6
+  - prova7
+  - prova8
+  - prova9
+  - prova10
+  - prova11
+  - prova12
+  - prova13
+workers:
+  - alessandro
+  - raffaele
+  - guido
+  - python
